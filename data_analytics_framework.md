@@ -176,15 +176,54 @@ Identifying features in data for the purposes of developing machine learning and
 
 ```mermaid
 flowchart LR
-    A[fa:fa-database Data storage] ---> B[/fa:fa-flask data analysis /] 
+    A[fa:fa-database Data storage] ---> B[/fa:fa-gears AI and Machine Learning /] 
 
 ```
 
 ## BCDE - Data Science
 
-## CDEF - Applied AI
+Using the scientific method to uncover insights from prepared data sources.
 
-## 
+- Big data analysis
+- Predictive analysis
+- Social network analysis
+
+```mermaid
+flowchart LR
+    A[fa:fa-database Data storage] ---> B[/fa:fa-gears AI and Machine Learning /] 
+
+```
+
+## CDEF - Applied Artificial Intelligence
+- Unsupervised machine learning
+- Reinforcement learning
+- ML Operations
+
+```mermaid
+flowchart LR
+    A[fa:fa-database Data storage] ---> B[/fa:fa-gears AI and Machine Learning /] 
+
+```
+
+
+
+## CF - Data Analytics
+
+Collecting samples of data for dashboard development and visualization.
+
+```mermaid
+flowchart LR
+    A[fa:fa-database Data storage] ---> B[/fa:fa-chart-simple Visualization and Dashboard Development /] 
+
+```
+
+## DF - Data Stories
+
+Turning the results of data analysis into a compelling story for strategic purposes.
+
+```mermaid
+
+```
 
 ## ABCDEF - End-to-End Data Science and Artificial Intelligence
 
